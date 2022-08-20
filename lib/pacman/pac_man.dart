@@ -50,10 +50,10 @@ class _PacManState extends State<PacMan> with TickerProviderStateMixin {
   void initFoodAnimation() {
     foodController = AnimationController(
       vsync: this,
-      duration: const Duration(milliseconds: 700),
+      duration: const Duration(milliseconds: 600),
     )..repeat();
 
-    foodAnimation = Tween<double>(begin: 500, end: 0).animate(
+    foodAnimation = Tween<double>(begin: 400, end: 0).animate(
       CurvedAnimation(
         parent: foodController,
         curve: Curves.easeInOut,
