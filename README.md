@@ -3,7 +3,7 @@
 O foco deste aplicativo é reproduzir o PacMan apenas utilizando CustomPaint, por meio do uso de animações explicitas.
 
 <div align='center'>
-  <img src="readme_pacman.giff" height="600">
+  <img src="readme_pacman.gif" height="600">
 </div>
 
 
