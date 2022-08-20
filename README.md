@@ -1,16 +1,9 @@
-# pacman
+## 🎯 Animação do PacMan com canva
 
-A new Flutter project.
+O foco deste aplicativo é reproduzir o PacMan apenas utilizando CustomPaint, por meio do uso de animações explicitas.
 
-## Getting Started
+Veja mais sobre:
 
-This project is a starting point for a Flutter application.
+- [CustomPaint](https://medium.com/flutter-community/a-deep-dive-into-custompaint-in-flutter-47ab44e3f216).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Animações implicitas](https://docs.flutter.dev/development/ui/animations/implicit-animations)
