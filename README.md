@@ -1,6 +1,6 @@
 ## 🎯 Animação do PacMan com canva
 
-O foco deste aplicativo é reproduzir o PacMan apenas utilizando CustomPaint, por meio do uso de animações explicitas.
+O foco deste aplicativo é reproduzir o PacMan apenas utilizando CustomPaint e animações explicitas.
 
 <div align='center'>
   <img src="readme_pacman.gif" height="600">
